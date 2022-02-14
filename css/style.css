@@ -61,62 +61,62 @@ li {
 }
 
 .minbox li:nth-child(1) {
-    background: url(../images/001.png) no-repeat 0 0;
+    background: url(../images/0001.png) no-repeat 0 0;
     -webkit-transform: translateZ(50px);
 }
 
 .minbox li:nth-child(2) {
-    background: url(../images/002.png) no-repeat 0 0;
+    background: url(../images/00002.png) no-repeat 0 0;
     -webkit-transform: rotateX(180deg) translateZ(50px);
 }
 
 .minbox li:nth-child(3) {
-    background: url(../images/003.png) no-repeat 0 0;
+    background: url(../images/0003.png) no-repeat 0 0;
     -webkit-transform: rotateX(-90deg) translateZ(50px);
 }
 
 .minbox li:nth-child(4) {
-    background: url(../images/004.png) no-repeat 0 0;
+    background: url(../images/0004.png) no-repeat 0 0;
     -webkit-transform: rotateX(90deg) translateZ(50px);
 }
 
 .minbox li:nth-child(5) {
-    background: url(../images/005.png) no-repeat 0 0;
+    background: url(../images/0005.png) no-repeat 0 0;
     -webkit-transform: rotateY(-90deg) translateZ(50px);
 }
 
 .minbox li:nth-child(6) {
-    background: url(../images/006.png) no-repeat 0 0;
+    background: url(../images/0006.png) no-repeat 0 0;
     -webkit-transform: rotateY(90deg) translateZ(50px);
 }
 
 .maxbox li:nth-child(1) {
-    background: url(../images/01.png) no-repeat 0 0;
+    background: url(../images/010.png) no-repeat 0 0;
     -webkit-transform: translateZ(50px);
 }
 
 .maxbox li:nth-child(2) {
-    background: url(../images/02.png) no-repeat 0 0;
+    background: url(../images/20.png) no-repeat 0 0;
     -webkit-transform: translateZ(50px);
 }
 
 .maxbox li:nth-child(3) {
-    background: url(../images/03.png) no-repeat 0 0;
+    background: url(../images/30png) no-repeat 0 0;
     -webkit-transform: rotateX(-90deg) translateZ(50px);
 }
 
 .maxbox li:nth-child(4) {
-    background: url(../images/04.png) no-repeat 0 0;
+    background: url(../images/40png) no-repeat 0 0;
     -webkit-transform: rotateX(90deg) translateZ(50px);
 }
 
 .maxbox li:nth-child(5) {
-    background: url(../images/05.png) no-repeat 0 0;
+    background: url(../images/50png) no-repeat 0 0;
     -webkit-transform: rotateY(-90deg) translateZ(50px);
 }
 
 .maxbox li:nth-child(6) {
-    background: url(../images/06.png) no-repeat 0 0;
+    background: url(../images/60png) no-repeat 0 0;
     -webkit-transform: rotateY(90deg) translateZ(50px);
 }
 
